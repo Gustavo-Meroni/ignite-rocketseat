@@ -1,12 +1,37 @@
-# React + Vite
+# 🚀 Ignite Feed - Rocketseat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido durante um curso da **Rocketseat**, utilizando **React** com **Vite**. A aplicação simula um feed social onde é possível visualizar postagens, interagir com comentários e aplicar diversas funcionalidades típicas de redes sociais.
 
-Currently, two official plugins are available:
+🔗 **Acesse o projeto online:**  
+👉 [ignite-rocketseat-ten.vercel.app](https://ignite-rocketseat-ten.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [CSS Modules](https://github.com/css-modules/css-modules)
+- [JavaScript (ES6+)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML5 e CSS3](https://developer.mozilla.org/pt-BR/docs/Web)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💡 Funcionalidades
+
+- Exibição de posts com:
+  - Avatar, nome e cargo do autor
+  - Conteúdo em parágrafos e links
+  - Data de publicação formatada
+- Sistema de comentários:
+  - Adicionar um novo comentário
+  - Deletar comentários existentes
+  - Aplaudir (like) comentários
+
+## 🖥️ Como rodar o projeto localmente
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   cd nome-do-repositorio
+
+  ---
+
+## Desenvolvido por Gustavo🎧
+   
