@@ -30,8 +30,8 @@ Este projeto foi desenvolvido durante um curso da **Rocketseat**, utilizando **R
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
-
+   ``` 
   ---
 
-## Desenvolvido por Gustavo🎧
+## 🎧 Desenvolvido por Gustavo
    
